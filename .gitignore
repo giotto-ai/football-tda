@@ -1,0 +1,16 @@
+.DS_Store
+# Ignore .idea file
+.idea
+
+# Ignore the notebook trash
+*.ipynb_checkpoints
+
+# Ignore some folders
+__pycache__/
+
+# Ignore data
+*.pickle
+*.parquet
+
+
+!data/**
