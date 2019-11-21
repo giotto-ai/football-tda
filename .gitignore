@@ -11,6 +11,6 @@ __pycache__/
 # Ignore data
 *.pickle
 *.parquet
-
+database.sqlite
 
 !data/**
