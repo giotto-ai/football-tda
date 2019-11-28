@@ -1,3 +1,5 @@
+<img src="https://www.giotto.ai/static/vector/logo.svg" alt="logo" width="850"/>
+
 # football-tda
 The purpose of this project is to show a possible application of TDA. Our use case is 
 based on football and the goal (pun intended) is to try to forecast the outcome of a
