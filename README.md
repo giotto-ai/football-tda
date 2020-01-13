@@ -56,3 +56,4 @@ In order to run the notebook, the following python packages are required:
 - pyarrow 0.15.1
 - tqdm 4.38.0
 - wget 3.2  
+- openml
