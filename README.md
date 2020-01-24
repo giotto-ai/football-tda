@@ -51,7 +51,7 @@ Enjoy!
 ## Requirements
 In order to run the notebook, the following python packages are required: 
 
-- giotto-learn 0.1.2
+- giotto-tda 0.1.4
 - pandas 0.25.3
 - pyarrow 0.15.1
 - tqdm 4.38.0
