@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-import giotto as o
+import gtda as o
 from gtda.pipeline import Pipeline
 from gtda.homology import VietorisRipsPersistence
 from gtda.diagrams import Amplitude
