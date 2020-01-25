@@ -1,5 +1,5 @@
 import numpy as np
-from giotto.diagrams import PairwiseDistance
+from gtda.diagrams import PairwiseDistance
 from joblib import Parallel, delayed
 from scipy.spatial.distance import squareform, pdist
 from sklearn.base import BaseEstimator

@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 
-import giotto as o
-from giotto.pipeline import Pipeline
-from giotto.homology import VietorisRipsPersistence
-from giotto.diagrams import Amplitude
+import gtda as o
+from gtda.pipeline import Pipeline
+from gtda.homology import VietorisRipsPersistence
+from gtda.diagrams import Amplitude
 from openml.datasets import get_dataset
 from tqdm import tqdm
 

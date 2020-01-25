@@ -5,9 +5,9 @@ from openml.datasets import get_dataset
 from utils import read_pickle
 import soccer_basics
 
-from giotto.pipeline import Pipeline
+from gtda.pipeline import Pipeline
 from sub_space_extraction import SubSpaceExtraction
-from giotto.homology import VietorisRipsPersistence
+from gtda.homology import VietorisRipsPersistence
 
 from cross_validation import extract_features_for_prediction
 
