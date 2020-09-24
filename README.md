@@ -1,4 +1,4 @@
-<img src="https://www.giotto.ai/static/vector/logo.svg" alt="logo" width="850"/>
+![logo](https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg)
 
 # football-tda
 The purpose of this project is to show a possible application of TDA. Our use case is 
